@@ -1,7 +1,7 @@
 # unityWeglBookExample
 how to put a blender 3d model in the browser with unity
 
-[video tutorial](https://www.uploadedyet.com "Click")
+[video tutorial](https://diode.zone/videos/watch/da47b4fb-deaf-4b98-8a08-d654f6b6ad76 "Click")
 
 [live demo](https://unity-webgl-book.surge.sh "Click")
 
